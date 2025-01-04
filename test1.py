@@ -5,3 +5,6 @@ a = 5
 
 
 # update
+
+
+print(a)  # prints 5
