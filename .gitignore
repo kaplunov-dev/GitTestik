@@ -1,13 +1,13 @@
-node_modules/
-dist/
-vendor/
-cache/
-.*/
-*.min.*
-*.test.*
-*.spec.*
-*.bundle.*
-*.bundle-min.*
-*.log
+# node_modules/
+# dist/
+# vendor/
+# cache/
+# .*/
+# *.min.*
+# *.test.*
+# *.spec.*
+# *.bundle.*
+# *.bundle-min.*
+# *.log
 
 .vscode/*
