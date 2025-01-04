@@ -9,3 +9,5 @@ cache/
 *.bundle.*
 *.bundle-min.*
 *.log
+
+.vscode/*
